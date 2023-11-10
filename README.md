@@ -5,3 +5,4 @@ sqlExamples sql sorgu kullanımları eklendi 2.11.2023
 northwind database sorgulama çalışmaları eklendi 2.11.2023
 northwind database sorgulama çalışmaları eklendi 7.11.2023
 northwind database sorgulama çalışmaları eklendi 9.11.2023
+northwind database sorgulama çalışmaları part2 eklendi 9.11.2023
